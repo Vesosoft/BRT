@@ -1,8 +1,21 @@
+# Changelog
 
-# BRT Changelog
+## BRT 1.0
 
-## v1.0
-- Initial project structure created
-- Documentation started
-- First accessibility testing methodology draft
-- Added semantic HTML structure for improved Reader View compatibility
+### Added
+
+- Initial project structure
+- GitHub repository
+- GitHub Pages website
+- Project documentation
+- Reader Mode methodology
+- PASS / PARTIAL / FAIL evaluation system
+- Google Chrome support
+- Mozilla Firefox support
+- Practical accessibility testing procedure
+- First documented test case (Meteo Balkans)
+- Version documentation
+
+### Notes
+
+BRT is a community project created to improve the accessibility of web content through practical browser-based testing.
