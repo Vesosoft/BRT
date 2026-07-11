@@ -57,7 +57,8 @@ BRT не е инструмент за критикуване на сайтове
 Проектът е създаден като обществена инициатива за подобряване на достъпността на уеб съдържанието.
 
 ## Статус
+## Status
 
 Current version: BRT 1.0
 
-Status: Development
+Status: Current working version
