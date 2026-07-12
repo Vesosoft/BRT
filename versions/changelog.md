@@ -1,4 +1,4 @@
-## BRT 1.0 - Current working version
+## BRT 1.1 - Current working version
 
 ### Added
 
@@ -14,3 +14,8 @@
 
 This is the first working version of BRT.
 Further improvements will be documented in future versions.
+
+## v1.1
+- Moved website files to /docs for GitHub Pages
+- Separated documentation and website structure
+- Added multilingual README support
