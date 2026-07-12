@@ -1,8 +1,9 @@
 # BRT Test Case #001
 
 ## Website
-Meteo Balkans
-https://www.meteobalkans.com/novini/ekstremni-sabitiq/gramotevichni-buri-dnes-ochakvat-se-lokalni-valeji-gradushki-i-gramotevichna-aktivnost-v-chasti-ot-balgariq
+[Meteo Balkans
+
+(https://www.meteobalkans.com/novini/ekstremni-sabitiq/gramotevichni-buri-dnes-ochakvat-se-lokalni-valeji-gradushki-i-gramotevichna-aktivnost-v-chasti-ot-balgariq)]
 ## Date
 2026-07-12
 
