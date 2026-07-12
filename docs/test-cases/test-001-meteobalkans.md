@@ -2,9 +2,9 @@
 
 ## Website
 Meteo Balkans
-
+https://www.meteobalkans.com/novini/ekstremni-sabitiq/gramotevichni-buri-dnes-ochakvat-se-lokalni-valeji-gradushki-i-gramotevichna-aktivnost-v-chasti-ot-balgariq
 ## Date
-YYYY-MM-DD
+2026-07-12
 
 ## Browsers tested
 - Google Chrome
