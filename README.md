@@ -1,6 +1,6 @@
 # BRT – Bulgarian Reader Test
 
-## Български тест за достъпност на уеб съдържание
+## Web Content Accessibility Test
 
 ## Website
 
@@ -8,33 +8,39 @@ Open the BRT project page:
 
 `index.html`
 
-BRT (Bulgarian Reader Test) е обществена неофициална методика за бърза проверка дали един уебсайт е удобен за четене чрез браузърски функции за достъпност.
+BRT (Bulgarian Reader Test) is a public, unofficial methodology for quickly checking whether a website is comfortable to read using browser accessibility features.
 
-Целта е всеки човек, без нужда от технически знания, да може да провери дали основното съдържание на един сайт е достъпно.
+The goal is to allow anyone, without technical knowledge, to check whether the main content of a website is accessible.
 
-## Защо е необходим BRT?
+## Why is BRT needed?
 
-Много хора използват помощни функции като:
+Many people use accessibility features such as:
 
-- режим за четене (Reader Mode / Reader View)
-- увеличаване на текста
-- промяна на контраста
-- тъмен режим
-- други настройки за по-лесно четене
+- Reader Mode / Reader View
+- text enlargement
+- contrast adjustment
+- dark mode
+- other settings for easier reading
 
-Когато един сайт не работи добре с тези функции, част от потребителите могат да загубят достъп до съдържанието.
+When a website does not work well with these features, some users may lose access to its content.
 
-## Какво проверява BRT?
+## What does BRT check?
 
-BRT проверява:
+BRT checks:
 
-- извлича ли се правилно основният текст;
-- показва ли се цялата статия;
-- премахват ли се пречещите елементи;
-- може ли текстът да се чете удобно;
-- има ли проблеми с изображения и допълнително съдържание.
+- whether the main text is extracted correctly;
+- whether the complete article is displayed;
+- whether distracting elements are removed;
+- whether the text can be read comfortably;
+- whether there are problems with images and additional content.
 
-  ## Real-world test cases
+## Documentation
+
+Full methodology:
+
+`docs/brt-1.0.html`
+
+## Real-world test cases
 
 BRT includes documented accessibility tests performed on real websites.
 
@@ -46,41 +52,42 @@ Examples:
 - Test #002 - Miele  
   Chrome Reader Mode works. Firefox Reader View is not available.
 
-## Принцип
+## Principle
 
-BRT не е инструмент за критикуване на сайтове.
+BRT is not a tool for criticizing websites.
 
-Това е инструмент за откриване на пречки пред читателите и за подобряване на достъпността на уеб съдържанието.
+It is a tool for identifying barriers for readers and improving the accessibility of web content.
 
-## Версии
+## Versions
 
 ### BRT 1.0
-Първа версия:
 
-- основен тест за режим на четене;
-- критерии PASS / PARTIAL / FAIL;
-- методика за ръчно тестване.
+First version:
 
-## Участие
+- basic Reader Mode test;
+- PASS / PARTIAL / FAIL criteria;
+- manual testing methodology.
 
-Всеки може да помогне:
+## Participation
 
-- да тества сайтове;
-- да предлага подобрения;
-- да съобщава проблеми;
-- да помага за развитието на методиката.
+Everyone can help:
 
-## Лиценз
+- test websites;
+- suggest improvements;
+- report problems;
+- contribute to the development of the methodology.
 
-Проектът е създаден като обществена инициатива за подобряване на достъпността на уеб съдържанието.
+## License
 
-## Статус
+This project was created as a public initiative to improve web content accessibility.
+
+BRT is not an official standard or certification system. It is a practical testing methodology.
+
 ## Status
 
 Current version: BRT 1.0
 
 Status: Current working version
-
 
 ## Author
 
