@@ -5,10 +5,15 @@
 ## Web Content Accessibility Test
 
 ## Website
+🌐 Website:
+https://vesosoft.github.io/BRT/
 
+📚 Documentation:
+docs/
+
+🧪 Test Cases:
+docs/test-cases/
 Open the BRT project page:
-
-`index.html`
 
 BRT (Bulgarian Reader Test) is a public, unofficial methodology for quickly checking whether a website is comfortable to read using browser accessibility features.
 
