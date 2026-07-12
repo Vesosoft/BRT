@@ -1,6 +1,28 @@
-## BRT 1.1 - Current working version
+Changelog
 
-### Added
+All notable changes to the BRT (Bulgarian Reader Test) project are documented in this file.
+
+---
+
+BRT 1.1
+
+Added
+
+- Moved website files to the "/docs" directory for GitHub Pages
+- Separated project documentation from website content
+- Added multilingual "README.md"
+- Improved project structure and file organization
+- Prepared the project for future documentation and test cases
+
+Status
+
+Current working version.
+
+---
+
+BRT 1.0
+
+Added
 
 - Initial project structure
 - GitHub repository
@@ -8,14 +30,8 @@
 - Reader Mode methodology
 - PASS / PARTIAL / FAIL evaluation criteria
 - Chrome and Firefox testing instructions
-- Practical accessibility test examples
+- First practical accessibility test
 
-### Status
+Status
 
-This is the first working version of BRT.
-Further improvements will be documented in future versions.
-
-## v1.1
-- Moved website files to /docs for GitHub Pages
-- Separated documentation and website structure
-- Added multilingual README support
+First public working version.
