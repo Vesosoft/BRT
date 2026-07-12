@@ -5,10 +5,14 @@
 ## Test dostupnosti webového obsahu
 
 ## Webová stránka
+🌐 Website:
+https://vesosoft.github.io/BRT/
 
-Otevřete stránku projektu BRT:
+📚 Documentation:
+docs/
 
-`index.html`
+🧪 Test Cases:
+docs/test-cases/
 
 BRT (Bulgarian Reader Test) je veřejná neoficiální metodika pro rychlou kontrolu toho, zda je webová stránka pohodlná ke čtení pomocí funkcí přístupnosti v prohlížeči.
 
