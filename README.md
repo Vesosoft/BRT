@@ -1,6 +1,6 @@
 [English](README.md) | [Български](README.🇧🇬.md) | [Українська](README.🇺🇦.md) | [Čeština](README.🇨🇿.md)
 
-# BRT – Bulgarian Reader Test
+# BRT – Browser Reader Mode Compatibility Test
 
 ## Web Content Accessibility Test
 
