@@ -1,6 +1,6 @@
 [English](README.md) | [Български](README.🇧🇬.md) | [Українська](README.🇺🇦.md) | [Čeština](README.🇨🇿.md)
 
-# BRT – Bulgarian Reader Test
+# BRT – Browser Reader Mode Compatibility Test
 
 ## Test dostupnosti webového obsahu
 
@@ -14,7 +14,7 @@ docs/
 🧪 Test Cases:
 docs/test-cases/
 
-BRT (Bulgarian Reader Test) je veřejná neoficiální metodika pro rychlou kontrolu toho, zda je webová stránka pohodlná ke čtení pomocí funkcí přístupnosti v prohlížeči.
+BRT (Browser Reader Mode Compatibility Test) je veřejná neoficiální metodika pro rychlou kontrolu toho, zda je webová stránka pohodlná ke čtení pomocí funkcí přístupnosti v prohlížeči.
 
 Cílem je umožnit každému člověku, bez nutnosti technických znalostí, ověřit, zda je hlavní obsah webové stránky dostupný.
 
