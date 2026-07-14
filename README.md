@@ -67,13 +67,17 @@ It is a tool for identifying barriers for readers and improving the accessibilit
 
 ## Versions
 
+### BRT 1.1
+
+Second version of the methodology:
+
+- added basic Reader Mode test;
+- added PASS / PARTIAL / FAIL criteria;
+- added manual testing methodology.
+
 ### BRT 1.0
 
-First version:
-
-- basic Reader Mode test;
-- PASS / PARTIAL / FAIL criteria;
-- manual testing methodology.
+Initial version.
 
 ## Participation
 
@@ -92,7 +96,7 @@ BRT is not an official standard or certification system. It is a practical testi
 
 ## Status
 
-Current version: BRT 1.0
+Current version: BRT 1.1
 
 Status: Current working version
 
