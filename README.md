@@ -64,7 +64,7 @@ It does not replace complete web accessibility testing standards such as WCAG.
 
 Full methodology:
 
-`docs/brt-1.0.html`
+`docs/brt.html`
 
 ## Real-world test cases
 
