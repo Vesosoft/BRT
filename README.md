@@ -5,6 +5,7 @@
 ## Web Content Accessibility Test
 
 ## Website
+
 🌐 Website:
 https://vesosoft.github.io/BRT/
 
@@ -13,11 +14,12 @@ docs/
 
 🧪 Test Cases:
 docs/test-cases/
+
 Open the BRT project page:
 
 BRT (Browser Reader Mode Compatibility Test) is a public, unofficial methodology for quickly checking whether a website is comfortable to read using browser accessibility features.
 
-The goal is to allow anyone, without technical knowledge, to check whether the main content of a website is accessible.
+The goal is to allow anyone, without technical knowledge, to check whether the main content of a website remains accessible and readable.
 
 ## Why is BRT needed?
 
@@ -40,6 +42,23 @@ BRT checks:
 - whether distracting elements are removed;
 - whether the text can be read comfortably;
 - whether there are problems with images and additional content.
+
+## Tested browsers
+
+BRT testing can be performed using different browsers with accessibility features.
+
+Current test environments:
+
+- Google Chrome — Reader Mode tested
+- Mozilla Firefox — Reader View tested
+- Microsoft Edge — accessibility features tested; Reader Mode availability depends on page and version
+- Opera — accessibility features tested; Reader Mode availability depends on page and version
+
+## Important note
+
+BRT evaluates compatibility with browser Reader Mode / Reader View features.
+
+It does not replace complete web accessibility testing standards such as WCAG.
 
 ## Documentation
 
@@ -69,15 +88,20 @@ It is a tool for identifying barriers for readers and improving the accessibilit
 
 ### BRT 1.1
 
-Second version of the methodology:
+Second version:
 
-- added basic Reader Mode test;
-- added PASS / PARTIAL / FAIL criteria;
-- added manual testing methodology.
+- moved website files to the `/docs` directory;
+- improved project structure;
+- separated documentation from website content;
+- improved multilingual documentation support.
 
 ### BRT 1.0
 
-Initial version.
+Initial methodology version:
+
+- Reader Mode test;
+- PASS / PARTIAL / FAIL criteria;
+- manual testing methodology.
 
 ## Participation
 
