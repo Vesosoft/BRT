@@ -2,7 +2,7 @@
 
 # BRT – Browser Reader Mode Compatibility Test
 
-## Test dostupnosti webového obsahu
+## Test kompatibility režimu čtení v prohlížeči
 
 ## Webová stránka
 🌐 Website:
@@ -14,9 +14,9 @@ docs/
 🧪 Test Cases:
 docs/test-cases/
 
-BRT (Browser Reader Mode Compatibility Test) je veřejná neoficiální metodika pro rychlou kontrolu toho, zda je webová stránka pohodlná ke čtení pomocí funkcí přístupnosti v prohlížeči.
+BRT (Browser Reader Mode Compatibility Test) je otevřená neoficiální metodika pro rychlou kontrolu toho, jak pohodlné je čtení webových stránek pomocí funkcí přístupnosti v prohlížeči.
 
-Cílem je umožnit každému člověku, bez nutnosti technických znalostí, ověřit, zda je hlavní obsah webové stránky dostupný.
+Cílem je umožnit každému člověku bez nutnosti technických znalostí ověřit, zda je hlavní obsah webové stránky dostupný.
 
 ## Proč je BRT potřeba?
 
@@ -68,7 +68,7 @@ Je to nástroj pro hledání překážek pro čtenáře a pro zlepšení příst
 
 ### BRT 1.0
 
-První verze:
+Počáteční verze:
 
 - základní test režimu čtení;
 - kritéria PASS / PARTIAL / FAIL;
@@ -85,7 +85,7 @@ Každý může pomoci:
 
 ## Licence
 
-Tento projekt byl vytvořen jako veřejná iniciativa pro zlepšení přístupnosti webového obsahu.
+Tento projekt byl vytvořen jako otevřená iniciativa pro zlepšení přístupnosti webového obsahu.
 
 BRT není oficiální standard ani certifikační systém. Je to praktická testovací metodika.
 
