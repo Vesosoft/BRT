@@ -2,21 +2,22 @@
 
 # BRT – Browser Reader Mode Compatibility Test
 
-## Test kompatibility režimu čtení v prohlížeči
+## Test kompatibility režimu čtení v prohlížečích
 
 ## Webová stránka
-🌐 Website:
+
+🌐 Website:  
 https://vesosoft.github.io/BRT/
 
-📚 Documentation:
+📚 Documentation:  
 docs/
 
-🧪 Test Cases:
+🧪 Test Cases:  
 docs/test-cases/
 
 BRT (Browser Reader Mode Compatibility Test) je otevřená neoficiální metodika pro rychlou kontrolu toho, jak pohodlné je čtení webových stránek pomocí funkcí přístupnosti v prohlížeči.
 
-Cílem je umožnit každému člověku bez nutnosti technických znalostí ověřit, zda je hlavní obsah webové stránky dostupný.
+Cílem BRT je umožnit každému člověku bez nutnosti technických znalostí ověřit, zda je hlavní obsah webové stránky dostupný.
 
 ## Proč je BRT potřeba?
 
@@ -36,7 +37,7 @@ BRT kontroluje:
 
 - zda se správně načítá hlavní text;
 - zda se zobrazuje celý článek;
-- zda jsou odstraněny rušivé prvky;
+- zda funkce čtení odstraňují rušivé prvky;
 - zda lze text pohodlně číst;
 - zda existují problémy s obrázky a dalším obsahem.
 
@@ -48,7 +49,7 @@ BRT kontroluje:
 
 ## Reálné testovací případy
 
-BRT obsahuje zdokumentované testy přístupnosti provedené na skutečných webových stránkách.
+BRT obsahuje zdokumentované testy přístupnosti provedené na reálných webových stránkách.
 
 Příklady:
 
@@ -60,19 +61,20 @@ Příklady:
 
 ## Princip
 
-BRT není nástroj pro kritiku webových stránek.
+BRT není nástroj pro hodnocení ani kritiku webových stránek.
 
 Je to nástroj pro hledání překážek pro čtenáře a pro zlepšení přístupnosti webového obsahu.
 
 ## Verze
 
-### BRT 1.0
+### BRT 1.1
 
-Počáteční verze:
+Aktuální verze:
 
 - základní test režimu čtení;
 - kritéria PASS / PARTIAL / FAIL;
-- metodika ručního testování.
+- metodika ručního testování;
+- praktické testovací případy na reálných webových stránkách.
 
 ## Zapojení
 
@@ -91,7 +93,7 @@ BRT není oficiální standard ani certifikační systém. Je to praktická test
 
 ## Stav
 
-Aktuální verze: BRT 1.0
+Aktuální verze: BRT 1.1
 
 Stav: Aktuální pracovní verze
 
