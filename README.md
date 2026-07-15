@@ -15,8 +15,6 @@ docs/
 🧪 Test Cases:
 docs/test-cases/
 
-Open the BRT project page:
-
 BRT (Browser Reader Mode Compatibility Test) is a public, unofficial methodology for quickly checking whether a website is comfortable to read using browser accessibility features.
 
 The goal is to allow anyone, without technical knowledge, to check whether the main content of a website remains accessible and readable.
