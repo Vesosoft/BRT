@@ -13,6 +13,7 @@ https://vesosoft.github.io/BRT/
 docs/
 
 🧪 Тестові випадки:
+
 docs/test-cases/
 
 BRT (Browser Reader Mode Compatibility Test) — це відкрита неофіційна методика для швидкої перевірки того, наскільки вебсайт зручний для читання за допомогою функцій доступності браузера.
