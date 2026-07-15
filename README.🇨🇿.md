@@ -41,11 +41,22 @@ BRT kontroluje:
 - zda lze text pohodlně číst;
 - zda existují problémy s obrázky a dalším obsahem.
 
+  ## Testované prohlížeče
+
+BRT lze testovat pomocí různých prohlížečů s funkcemi přístupnosti.
+
+Aktuální testovací prostředí:
+
+- Google Chrome — testován Reader Mode;
+- Mozilla Firefox — testován Reader View;
+- Microsoft Edge — testovány funkce přístupnosti; dostupnost Reader Mode závisí na stránce a verzi;
+- Opera — testovány funkce přístupnosti; dostupnost Reader Mode závisí na stránce a verzi.
+
 ## Dokumentace
 
 Úplná metodika:
 
-`docs/brt-1.0.html`
+`docs/brt.html`
 
 ## Reálné testovací případy
 
@@ -69,12 +80,20 @@ Je to nástroj pro hledání překážek pro čtenáře a pro zlepšení příst
 
 ### BRT 1.1
 
-Aktuální verze:
+Druhá verze:
 
-- základní test režimu čtení;
+- webové stránky byly přesunuty do adresáře `/docs`;
+- vylepšena struktura projektu;
+- dokumentace byla oddělena od obsahu webu;
+- vylepšena podpora vícejazyčné dokumentace.
+
+### BRT 1.0
+
+Počáteční verze metodiky:
+
+- test režimu čtení;
 - kritéria PASS / PARTIAL / FAIL;
-- metodika ručního testování;
-- praktické testovací případy na reálných webových stránkách.
+- metodika ručního testování.
 
 ## Zapojení
 
