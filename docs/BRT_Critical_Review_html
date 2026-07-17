@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BRT Critical Review</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #fff4e6;
+    color: #333;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+article {
+    max-width: 900px;
+    margin: auto;
+    background: #fffaf2;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #7a3e00;
+}
+
+.info {
+    background: #ffe8c2;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+details {
+    background: #fff;
+    border: 1px solid #e0c8a0;
+    border-radius: 8px;
+    margin: 12px 0;
+    padding: 10px;
+}
+
+summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: #7a3e00;
+}
+
+.note {
+    background: #fff1b8;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<article>
+
+<h1>BRT Critical Review</h1>
+
+<div class="info">
+<strong>Автор:</strong> Камен Вълев<br>
+<strong>Дата:</strong> 14.07.26
+</div>
+
+<p>
+Критичен преглед на методиката BRT – Browser Reader Mode Compatibility Test.
+</p>
+
+
+<details>
+<summary>ЧАСТ 1 — Определение и обхват на BRT</summary>
+
+<p>
+BRT проверява дали конкретен браузър може да разпознае, извлече и представи основното съдържание на конкретна уеб страница чрез Reader Mode / Reader View.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 2 — Разграничение от WCAG</summary>
+
+<p>
+BRT не е тест за цялостна уеб достъпност и не заменя WCAG.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 3 — Availability и Extraction</summary>
+
+<p>
+Наличността на Reader Mode трябва да бъде отделена от резултата от извличането.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 4 — Обективни критерии PASS / PARTIAL / FAIL</summary>
+
+<p>
+Определяне на критични, второстепенни и нежелани елементи.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 5 — Процедура за сравнение</summary>
+
+<p>
+Описание на очакваното съдържание преди активиране на Reader Mode и сравнение след това.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 6 — Типове страници</summary>
+
+<p>
+Определяне на подходящи профили и случаи OUT OF SCOPE.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 7 — Тестова среда</summary>
+
+<p>
+Всеки браузър, версия и устройство трябва да бъде отделен резултат.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 8 — Възпроизводимост</summary>
+
+<p>
+Използване на контролни страници и независими тестери.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 9 — Ограничения на BRT</summary>
+
+<p>
+Резултатът се отнася само до конкретна страница, браузър и тестова среда.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 10 — Наблюдение, резултат, интерпретация</summary>
+
+<p>
+Разделяне на фактите от заключенията.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 11 — Версии и управление на проекта</summary>
+
+<p>
+Версии на методиката, Releases, LICENSE и допълнителна документация.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 12 — Тестов формуляр</summary>
+
+<p>
+Предложение за стандартен шаблон на тестов запис.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+<details>
+<summary>ЧАСТ 13 — Общ извод</summary>
+
+<p>
+BRT трябва да остане ограничена, ясна и практична методика за проверка на Reader Mode съвместимост.
+</p>
+
+<div class="note">
+Статус на изпълнение:
+<br>
+☐ Прочетено
+<br>
+☐ Изпълнено
+</div>
+
+</details>
+
+
+</article>
+
+</body>
+</html>
